@@ -1,0 +1,51 @@
+Devoluciones Pendientes
+C.U.P. || Fecha Prestamo || Fecha Devolucion Est. || Apellido || Nombre || Celular || Email  || Titulo del Libro
+110 || 11/06/2015 || 26/06/2015 || Godoy || Pablo || 70237102 || Pablo.Godoy@hotmail.com || DOMINE PHP 5
+125 || 01/07/2015 || 17/08/2015 || Becerra || Antonia || 78149419 || Antonia.Becerra@outlook.com || DESARROLLO DE APLICACIONES MEDIANTE FRAMEWORK SPRING
+94 || 08/07/2015 || 29/08/2015 || Chiang || Antonia || 84365731 || Antonia.Chiang@outlook.com || DOMINE JAVASCRIPT
+89 || 02/08/2015 || 29/10/2015 || Saavedra || Isis || 86986153 || Isis.Saavedra@gmail.com || GUIA PRACTICA XHTML JAVASCRIPT Y CSS
+100 || 29/10/2015 || 29/10/2015 || Astudillo || Pablo || 81636547 || Pablo.Astudillo@hotmail.com || CREACION DE UN SITIO WEB CON PHP Y MYSQL
+157 || 24/07/2015 || 12/11/2015 || Astudillo || Pablo || 81636547 || Pablo.Astudillo@hotmail.com || DESARROLLO DE JUEGOS CON J2ME. JAVA 2 MICRO EDITION
+17 || 15/03/2015 || 15/11/2015 || Godoy || Pablo || 70237102 || Pablo.Godoy@hotmail.com || DOMINE PHP 5
+184 || 20/11/2015 || 23/11/2015 || Pinnola || Marcos || 88287980 || Marcos.Pinnola@hotmail.com || DESARROLLO DEL INTERFACES
+3 || 02/12/2015 || 11/12/2015 || Saavedra || Daniela || 76103530 || Daniela.Saavedra@outlook.com || GUIA PRACTICA XHTML JAVASCRIPT Y CSS
+140 || 18/12/2015 || 21/12/2015 || Chiang || Antonia || 84365731 || Antonia.Chiang@outlook.com || DESARROLLO DE JUEGOS CON J2ME. JAVA 2 MICRO EDITION
+112 || 25/04/2015 || 08/02/2016 || Saavedra || Daniela || 76103530 || Daniela.Saavedra@outlook.com || DESARROLLO DE APLICACIONES ANDROID CON JAVA
+15 || 02/01/2015 || 25/02/2016 || Saavedra || Isis || 86986153 || Isis.Saavedra@gmail.com || PROGRAMADOR CERTIFICADO JAVA 2. CURSO PRACTICO
+23 || 26/02/2016 || 09/03/2016 || Olivares || Marcos || 82027675 || Marcos.Olivares@gmail.com || DESARROLLO DE APLICACIONES MEDIANTE FRAMEWORK SPRING
+86 || 01/01/2015 || 24/03/2016 || Astudillo || Pablo || 81636547 || Pablo.Astudillo@hotmail.com || DOMINE JAVASCRIPT
+81 || 14/08/2015 || 03/05/2016 || Saavedra || Isis || 86986153 || Isis.Saavedra@gmail.com || PYTHON 3 CURSO PRACTICO
+76 || 02/11/2015 || 07/05/2016 || Chiang || Antonia || 84365731 || Antonia.Chiang@outlook.com || DESARROLLO DE APLICACIONES ANDROID CON JAVA
+33 || 05/03/2016 || 17/05/2016 || Espinoza || Igor || 86143053 || Igor.Espinoza@outlook.com || PROGRAMADOR CERTIFICADO JAVA 2. CURSO PRACTICO
+40 || 12/01/2016 || 08/06/2016 || Saavedra || Daniela || 76103530 || Daniela.Saavedra@outlook.com || PROGRAMACION DE BASES DE DATOS RELACIONALES
+32 || 21/12/2015 || 26/06/2016 || Godoy || Paola || 73339275 || Paola.Godoy@hotmail.com || PROGRAMACION WEB EN ENTORNO SERVIDOR
+175 || 24/12/2015 || 28/06/2016 || Becerra || Jorge || 79125217 || Jorge.Becerra@outlook.com || DOMINE JAVASCRIPT
+52 || 17/10/2015 || 06/09/2016 || Olivares || Marcos || 82027675 || Marcos.Olivares@gmail.com || DESARROLLO DE APLICACIONES IOS CON SWIFT
+50 || 03/05/2015 || 05/10/2016 || Godoy || Pablo || 70237102 || Pablo.Godoy@hotmail.com || DESARROLLO DE JUEGOS CON J2ME. JAVA 2 MICRO EDITION
+124 || 18/04/2015 || 10/10/2016 || Campos || Francisco || 74887359 || Francisco.Campos@gmail.com || DOMINE PHP 5
+20 || 23/07/2015 || 11/10/2016 || Becerra || Antonia || 78149419 || Antonia.Becerra@outlook.com || CREACION DE UN SITIO WEB CON PHP Y MYSQL
+199 || 07/09/2016 || 18/10/2016 || Godoy || Pablo || 70237102 || Pablo.Godoy@hotmail.com || GUIA PRACTICA XHTML JAVASCRIPT Y CSS
+102 || 04/03/2016 || 19/10/2016 || Godoy || Paola || 73339275 || Paola.Godoy@hotmail.com || DESARROLLO DE JUEGOS CON J2ME. JAVA 2 MICRO EDITION
+87 || 19/07/2016 || 19/10/2016 || Godoy || Pablo || 70237102 || Pablo.Godoy@hotmail.com || DESARROLLO DE APLICACIONES IOS CON SWIFT
+43 || 14/02/2016 || 26/10/2016 || Pinnola || Marcos || 88287980 || Marcos.Pinnola@hotmail.com || PROGRAMACION DE BASES DE DATOS RELACIONALES
+120 || 17/08/2015 || 09/11/2016 || Espinoza || Franco || 89274706 || Franco.Espinoza@gmail.com || PROGRAMADOR CERTIFICADO JAVA 2. CURSO PRACTICO
+30 || 27/10/2016 || 24/11/2016 || Becerra || Antonia || 78149419 || Antonia.Becerra@outlook.com || PROGRAMACION WEB EN ENTORNO SERVIDOR
+84 || 21/11/2016 || 27/11/2016 || Chiang || Antonia || 84365731 || Antonia.Chiang@outlook.com || DOMINE JAVASCRIPT
+163 || 12/09/2015 || 05/12/2016 || Chiang || Antonia || 84365731 || Antonia.Chiang@outlook.com || DESARROLLO DE APLICACIONES MEDIANTE FRAMEWORK SPRING
+26 || 28/11/2015 || 06/12/2016 || Espinoza || Igor || 86143053 || Igor.Espinoza@outlook.com || DESARROLLO DEL INTERFACES
+131 || 06/08/2015 || 11/12/2016 || Saavedra || Daniela || 76103530 || Daniela.Saavedra@outlook.com || DESARROLLO DEL INTERFACES
+150 || 17/12/2016 || 27/12/2016 || Godoy || Pablo || 70237102 || Pablo.Godoy@hotmail.com || DOMINE JAVASCRIPT
+56 || 15/09/2016 || 05/02/2017 || Chiang || Antonia || 84365731 || Antonia.Chiang@outlook.com || DESARROLLO DE APLICACIONES ANDROID CON JAVA
+58 || 22/09/2016 || 12/02/2017 || Saavedra || Isis || 86986153 || Isis.Saavedra@gmail.com || PROGRAMADOR CERTIFICADO JAVA 2. CURSO PRACTICO
+135 || 28/01/2016 || 20/02/2017 || Espinoza || Igor || 86143053 || Igor.Espinoza@outlook.com || PROGRAMACION DE BASES DE DATOS RELACIONALES
+182 || 20/08/2016 || 13/05/2017 || Saavedra || Daniela || 76103530 || Daniela.Saavedra@outlook.com || PROGRAMACION DE BASES DE DATOS RELACIONALES
+141 || 25/10/2016 || 14/06/2017 || Godoy || Paola || 73339275 || Paola.Godoy@hotmail.com || CREACION DE UN SITIO WEB CON PHP Y MYSQL
+160 || 01/06/2016 || 25/06/2017 || Saavedra || Daniela || 76103530 || Daniela.Saavedra@outlook.com || DESARROLLO DEL INTERFACES
+195 || 24/06/2016 || 18/07/2017 || Godoy || Pablo || 70237102 || Pablo.Godoy@hotmail.com || PROGRAMADOR CERTIFICADO JAVA 2. CURSO PRACTICO
+129 || 07/07/2016 || 22/08/2017 || Godoy || Pablo || 70237102 || Pablo.Godoy@hotmail.com || PYTHON 3 CURSO PRACTICO
+119 || 05/02/2016 || 02/09/2017 || Becerra || Jorge || 79125217 || Jorge.Becerra@outlook.com || DOMINE PHP 5
+104 || 14/06/2016 || 06/11/2017 || Becerra || Antonia || 78149419 || Antonia.Becerra@outlook.com || PROGRAMACION DE BASES DE DATOS RELACIONALES
+191 || 11/10/2016 || 15/11/2017 || Olivares || Marcos || 82027675 || Marcos.Olivares@gmail.com || DESARROLLO DE APLICACIONES IOS CON SWIFT
+96 || 02/02/2016 || 24/11/2017 || Becerra || Antonia || 78149419 || Antonia.Becerra@outlook.com || JAVA. INTERFACES GRAFICAS Y APLICACIONES PARA INTERNET
+190 || 17/10/2016 || 05/12/2017 || Espinoza || Igor || 86143053 || Igor.Espinoza@outlook.com || JAVA. INTERFACES GRAFICAS Y APLICACIONES PARA INTERNET
+159 || 27/06/2016 || 26/12/2017 || Saavedra || Daniela || 76103530 || Daniela.Saavedra@outlook.com || PROGRAMADOR CERTIFICADO JAVA 2. CURSO PRACTICO

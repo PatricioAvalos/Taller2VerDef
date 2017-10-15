@@ -1,0 +1,15 @@
+17942458-4,Pablo,Astudillo,81636547,Pablo.Astudillo@hotmail.com
+15901046-5,Antonia,Becerra,78149419,Antonia.Becerra@outlook.com
+10818474-4,Franco,Espinoza,89274706,Franco.Espinoza@gmail.com
+19613177-9,Marcos,Olivares,82027675,Marcos.Olivares@gmail.com
+15564003-0,Jorge,Becerra,79125217,Jorge.Becerra@outlook.com
+11284647-6,Pablo,Godoy,70237102,Pablo.Godoy@hotmail.com
+14603167-6,Antonia,Chiang,84365731,Antonia.Chiang@outlook.com
+11284647-6,Eduardo,Pinnola,74480457,Eduardo.Pinnola@hotmail.com
+14603167-6,Juan,Espinoza,78286501,Juan.Espinoza@outlook.com
+18437140-5,Francisco,Campos,74887359,Francisco.Campos@gmail.com
+13204398-1,Daniela,Saavedra,76103530,Daniela.Saavedra@outlook.com
+15292166-7,Paola,Godoy,73339275,Paola.Godoy@hotmail.com
+15435351-8,Igor,Espinoza,86143053,Igor.Espinoza@outlook.com
+18163445-6,Isis,Saavedra,86986153,Isis.Saavedra@gmail.com
+16048312-1,Marcos,Pinnola,88287980,Marcos.Pinnola@hotmail.com
